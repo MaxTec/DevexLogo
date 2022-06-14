@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[function(e,o,n){e.exports=n(1)},function(e,o){const n=document.createElement("main");document.createTextNode("Hello world!");console.log("it works :)"),n.appendChild(svg),document.getElementById("root").appendChild(n)}],[[0,1]]]);
